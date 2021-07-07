@@ -1,2 +1,2 @@
-# PanagiotisKola.github.io
+# PanagiotisKola
 myFirstWebPage
